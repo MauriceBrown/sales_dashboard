@@ -1,6 +1,6 @@
 # Sales Dashboards created in Excel and PowerBI
 
-This project consists of two dashboards made using [sample data from microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-sales-and-marketing#get-the-pbix-file-for-this-sample).
+This project consists of two dashboards made using [sample data from microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-sales-and-marketing#get-the-pbix-file-for-this-sample). The schema diagram is shown below.
 
 ![Model Schema Diagram](https://github.com/MauriceBrown/sales_dashboard/blob/main/model_schema.png)
 
