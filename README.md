@@ -33,6 +33,10 @@ The Power BI report shows a series of dashboards including custom tooltips, dril
 
 ### Drill-Throughs
 ### Custom Tooltips
+* **High Level** page
+  1. **Total YoY Growth** chart (top left): Hovering over data bars reveals the custom tool tip showing a breakdown of sales in the selected year by **product line**, **VanArsdel**, **region** and **category**
+  2. **Top 10 States** chart (middle left): Hovering over data bars reveals the custom tool tip showing a breakdown of sales in the selected state by **district**
+  3. **Product Line** chart (bottom left): Hovering over data bars reveals the custom tool tip showing a breakdown of sales of the product line by **manufacturer**
 
 
 
