@@ -6,7 +6,7 @@ This project consists of two dashboards made using [sample data from microsoft](
 ![Model Schema Diagram](https://github.com/MauriceBrown/sales_dashboard/blob/main/model_schema.png)
 
 ### Additional Tables
-* revenue_units_selection: used for slicers to allow for dynamic switching between revenue or unit sales measures on charts
+* **revenue_units_selection**: used for slicers to allow for dynamic switching between revenue or unit sales measures on charts
 
 ### Calculated Columns
 * Product Table
