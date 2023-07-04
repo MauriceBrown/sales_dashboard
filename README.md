@@ -36,12 +36,14 @@ The Power BI report shows a series of dashboards including custom tooltips, dril
 2. **Manufacturer Detail**: Shows sales and sentiment breakdowns for each manufacturer. The slicers in the top left allow the user to select **Revenue** or **Unit Sales** as well as the time period and the manufacturer.
   * Note: the manufacturer slicer is set to single select so only **ONE** manufacturer can be viewed at a time.
 
-### Drill-Throughs
 ### Custom Tooltips
 * **High Level** page
   1. **Total YoY Growth** chart (top left): Hovering over data bars reveals the custom tool tip showing a breakdown of sales in the selected year by **product line**, **VanArsdel**, **region** and **category**
   2. **Top 10 States** chart (middle left): Hovering over data bars reveals the custom tool tip showing a breakdown of sales in the selected state by **district**
   3. **Product Line** chart (bottom left): Hovering over data bars reveals the custom tool tip showing a breakdown of sales of the product line by **manufacturer**
+ 
+### Drill Throughs
+1. **Geography - Drill Through** page: showing further detail for **Revenue** or **Unit Sales** (depending on the user selected filter) as well as **Sentiment** broken down by (manufacturer, segment and product line).
 
 
 
