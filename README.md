@@ -39,8 +39,8 @@ The Power BI report shows a series of dashboards including custom tooltips, dril
 ### Custom Tooltips
 1. **Total - Tooltip** page: Hovering over selected charts (e.g. the "Total and YoY Growth" chart on the "High Level" page) reveals the custom tool tip showing a breakdown of sales in the selected year by **product line**, **VanArsdel**, **region** and **category**
 2. **State - Tooltip** page: Hovering over selected charts (e.g. the "Top 10 States" chart on the "High Level" page) reveals the custom tool tip showing a breakdown of sales by district within the selected state
-3. **Product Line - Tooltip** page:  Hovering over selected charts (e.g. the "Product Lines" chart on the "High Level" page) reveals the custom tool tip showing a breakdown of sales by manufacturer
-4. **Sentiment - State - Tooltip** page: Hovering over selected charts (e.g. the "Average Sentiment by State" chart on the "Sentiment" page) reveals the custom tool tip showing a breakdown of average sentiment by district within the selected state
+3. **Sentiment - State - Tooltip** page: Hovering over selected charts (e.g. the "Average Sentiment by State" chart on the "Sentiment" page) reveals the custom tool tip showing a breakdown of average sentiment by district within the selected state
+4. **Manufacturer - Tooltip** page:  Hovering over selected charts (e.g. the "Product Lines" chart on the "High Level" page) reveals the custom tool tip showing a breakdown of sales by manufacturer
  
 ### Drill Throughs
 1. **Geography - Drill Through** page: showing further detail for **Revenue** or **Unit Sales** (depending on the user selected filter) as well as **Sentiment** broken down by (manufacturer, segment and product line).
